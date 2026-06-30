@@ -153,6 +153,9 @@
     "url": "https://github.com/gildas-lormeau/zip.js/issues"
   },
   "homepage": "https://gildas-lormeau.github.io/zip.js",
+  "overrides": {
+    "markdown-it": ">=14.2.0"
+  },
   "devDependencies": {
     "@rollup/plugin-replace": "^6.0.3",
     "@rollup/plugin-terser": "^1.0.0",
